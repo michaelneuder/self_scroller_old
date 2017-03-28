@@ -1,0 +1,9 @@
+--------------------------------------------------
+------------- file being analyzed ----------------
+--------------------------------------------------
+43 phrases
+14 phrases sections 1 and 3
+15 phrases of section 2
+145 words in section 1
+236 words in section 2
+118 words in section 3
